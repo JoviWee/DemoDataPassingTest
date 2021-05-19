@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Data Passing Test</string>
+    <string name="pass_interger_value_to_2nd_activity">Pass Interger Value To 2nd Activity</string>
+    <string name="pass_character_value_to_2nd_activity">Pass Character Value To 2nd Activity</string>
+</resources>
